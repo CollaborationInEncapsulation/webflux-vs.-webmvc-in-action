@@ -1,0 +1,3 @@
+[submodule "webflux/trading-platform"]
+	path = webflux/trading-platform
+	url = git@github.com:CollaborationInEncapsulation/reactive-crypto-trading-platform.git
